@@ -6,6 +6,7 @@ while (True):
     if (inputan == ""):
         
         hasil = tampungnilai / tampunginput
+        print(hasil)
         break
     
     else:
@@ -67,3 +68,4 @@ while (True):
         else:
             
             print("please input the correct grade letter")
+
