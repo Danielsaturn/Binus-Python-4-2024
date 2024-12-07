@@ -14,22 +14,53 @@ while (True):
             tampungnilai = tampungnilai + 4.00
             tampunginput =
             
-        elif inputan == "A-"):
+        elif (inputan == "A-"):
             
             tampungnilai = tampungnilai + 3.75
             tampunginput =
             
-        elif inputan == "B+"):
+        elif (inputan == "B+"):
             
             tampungnilai = tampungnilai + 3.50
             tampunginput =
             
-        elif inputan == "B"):
+        elif (inputan == "B"):
             
             tampungnilai = tampungnilai + 3.00
             tampunginput =
             
-        elif inputan == "B-"):
+        elif (inputan == "B-"):
             
             tampungnilai = tampungnilai + 2.75
             tampunginput =
+            
+        elif (inputan == "B-"):
+            
+            tampungnilai = tampungnilai + 2.75
+            tampunginput =
+            
+        elif (inputan == "C+"):
+            
+            tampungnilai = tampungnilai + 2.50
+            tampunginput =
+            
+        elif (inputan == "C"):
+            
+            tampungnilai = tampungnilai + 2.00
+            tampunginput =
+            
+        elif (inputan == "C-"):
+            
+            tampungnilai = tampungnilai + 1.75
+            tampunginput =
+            
+        elif (inputan == "D"):
+            
+            tampungnilai = tampungnilai + 1.50
+            tampunginput =
+            
+        else (inputan == "E"):
+            
+            tampungnilai = tampungnilai + 1.20
+            tampunginput =
+            
