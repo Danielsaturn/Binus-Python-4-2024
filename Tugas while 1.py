@@ -24,5 +24,6 @@ while (True):
         continue
     
     else:
-        
+
+        print("This program has ended")
         break
