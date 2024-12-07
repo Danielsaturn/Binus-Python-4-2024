@@ -1,8 +1,5 @@
 import math
 
-
-i = 0
-
 while (True):
 
     print ("This is an odd & even filter")
