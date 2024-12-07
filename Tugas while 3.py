@@ -8,59 +8,62 @@ while (True):
         hasil = tampungnilai / tampunginput
         break
     
-    else;
+    else:
         if (inputan == "A"):
             
             tampungnilai = tampungnilai + 4.00
-            tampunginput =
+            tampunginput += 1
             
         elif (inputan == "A-"):
             
             tampungnilai = tampungnilai + 3.75
-            tampunginput =
+            tampunginput += 1
             
         elif (inputan == "B+"):
             
             tampungnilai = tampungnilai + 3.50
-            tampunginput =
+            tampunginput += 1
             
         elif (inputan == "B"):
             
             tampungnilai = tampungnilai + 3.00
-            tampunginput =
+            tampunginput += 1
             
         elif (inputan == "B-"):
             
             tampungnilai = tampungnilai + 2.75
-            tampunginput =
+            tampunginput += 1
             
         elif (inputan == "B-"):
             
             tampungnilai = tampungnilai + 2.75
-            tampunginput =
+            tampunginput += 1
             
         elif (inputan == "C+"):
             
             tampungnilai = tampungnilai + 2.50
-            tampunginput =
+            tampunginput += 1
             
         elif (inputan == "C"):
             
             tampungnilai = tampungnilai + 2.00
-            tampunginput =
+            tampunginput += 1
             
         elif (inputan == "C-"):
             
             tampungnilai = tampungnilai + 1.75
-            tampunginput =
+            tampunginput += 1
             
         elif (inputan == "D"):
             
             tampungnilai = tampungnilai + 1.50
-            tampunginput =
+            tampunginput += 1
             
-        else (inputan == "E"):
+        elif (inputan == "E"):
             
             tampungnilai = tampungnilai + 1.20
-            tampunginput =
+            tampunginput += 1
             
+        else:
+            
+            print("please input the correct grade letter")
